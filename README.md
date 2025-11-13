@@ -114,6 +114,7 @@ Cypress_Fixtures_E2E_Automation_NL_QA/
     }
   }
 }
+```
 
 ---
 
