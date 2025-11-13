@@ -1,0 +1,29 @@
+{
+    "newUser": {
+        "name": "James Bond",
+        "email": "jamesbond1882@example.com",
+        "title": "Mr",
+        "password": "JamesB@1882!",
+        "dob": {
+            "day": "12",
+            "month": "November",
+            "year": "1985"
+        },
+
+        "newsletter": true,
+        "specialOffers": true,
+        
+        "address": {
+            "firstName": "James",
+            "lastName": "Bond",
+            "company": "Elite",
+            "address1": "123 Main Street",
+            "address2": "Apt 5",
+            "country": "United States",
+            "state": "California",
+            "city": "Los Angeles",
+            "zipcode": "90001",
+            "mobile": "1234567890"
+        }
+    }
+}
