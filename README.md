@@ -1,6 +1,6 @@
 # Cypress Fixtures E2E Automation (Automation Exercise Site)
 
-## 🧩 Overview
+## Overview
 This project is an **end-to-end automation testing suite** built using **Cypress** with **fixtures** for test data management.  
 It automates the **user registration flow** on [AutomationExercise](https://automationexercise.com/) - from visiting the site to filling out the signup form, entering personal details and verifying successful account creation.
 
