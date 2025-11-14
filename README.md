@@ -1,4 +1,4 @@
-# Cypress Fixtures E2E Automation (Automation Exercise Site)
+# Cypress Fixtures Automation Exercise
 
 ## Overview
 This project is an **end-to-end automation testing suite** built using **Cypress** with **fixtures** for test data management.  
